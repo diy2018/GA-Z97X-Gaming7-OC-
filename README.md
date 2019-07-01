@@ -1,2 +1,2 @@
 # GA-Z97X-Gaming7
-OpenCore-Clover
+的OpenCore，三叶草，Ozmosis
